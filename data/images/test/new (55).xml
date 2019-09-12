@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New_images</folder>
+	<filename>new (55).jpg</filename>
+	<path>F:\Desktop\Thesis\Dataset\New_images\new (55).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>8</ymin>
+			<xmax>585</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
